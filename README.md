@@ -1,4 +1,4 @@
 # jawallnoveno
 repositorio que condensa el codigo de noveno
-##primera clase
+## primera clase
 creacion del repositorio inincial
